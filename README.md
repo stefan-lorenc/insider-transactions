@@ -1,5 +1,12 @@
 # insider-transactions
 <img src="images/title_card.png" alt="Alt text" title="Leading Asset Movement" width="520" height="293">
+"When it
+		reaches fifty, you can let out a
+		little taste to your friends.
+		Then call this number -- 555-7617:
+		tell the man "blue horseshoe loves
+		Anacott Steel..." You scored, Buddy!
+		Be in touch." - Gordon Gekko
 
 # introduction
 The insider transactions project affectionately named “Anacott” after the famous line “Blue horseshoe loves Anacott Steel” from the 1987 film Wall Street, is an attempt to analyze insider buying and selling of securities to determine if there was any alpha to be generated from directly following these insider transactions and how reliable this alpha is if any.
