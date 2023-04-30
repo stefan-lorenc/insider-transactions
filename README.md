@@ -18,7 +18,7 @@ Fist things first, we need some insider transaction information. The website ope
 3.	Dollar value > $300,000
 
 
-The reasoning for these conditions are that an insider would only purchase stock in their company if they predict the stock will do well. No one is personally tying themselves to a sinking ship. They may sell stock for several reasons. Option exercises, prescription to a 10b-5 trading plan, the short or long term outlook for the company/market is not ideal, etc. . 
+The reasoning for these conditions are that an insider would only purchase stock in their company if they predict the stock will do well. No one is personally tying themselves to a sinking ship. They may sell stock for several reasons. Option exercises, prescription to a 10b-5 trading plan, the short or long term outlook for the company/market is not ideal, etc.. 
 
 For these reasons we restrict the collection to Buys. Strictly officer purchases are since they are more aware of day-to-day operations and will be information generators whereas directors are receiving as reacting to the information. The $300,000 minimum transaction value also ensures that the buyer is somewhat financially committed to their investment, and they are more likely to have actionable information behind their decision. 
 
